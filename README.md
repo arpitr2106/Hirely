@@ -8,7 +8,7 @@
 
 ## 🌐 Product Overview
 
-_Hirely_ is a _Job Portal_ platform that enables recruiters to post jobs and candidates to search, apply, and track applications seamlessly. Built with modern technologies, Hirely offers _secure authentication_, _advanced filtering_, and a _responsive UI_ for an enhanced user experience.
+_Hirely_ is a _Job Portal_ that enables recruiters to post jobs and candidates to search, apply, and track applications seamlessly. Built with modern technologies, Hirely offers _secure authentication_, _advanced filtering_, and a _responsive UI_ for an enhanced user experience.
 This project is built to reduce the technical barriers faced by non-technical users while ensuring scalability, performance, and reliability.
 
 ### ✨ Key Features:
