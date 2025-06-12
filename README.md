@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <img src="public/logo.png" alt="Hirely Logo" width="400"/>
+  <img src="public/logo.png" alt="Hirely Logo" width="300"/>
 </p>
 <br />
 
@@ -13,7 +13,7 @@ This project is built to reduce the technical barriers faced by non-technical us
 
 ### ✨ Key Features:
 
--   _User Authentication_ – CSign in via Google or email/password using Clerk.
+-   _User Authentication_ – Sign in via Google or email/password using Clerk.
 -   _Role-based Access_ – Separate flows and dashboards for recruiters and candidates.
 -   _Job Posting & Management_ – Recruiters can post, update, and delete job listings.
 -   _Job Search & Filters_ – Candidates can search jobs by location, company, role, and save favorites.
@@ -24,7 +24,7 @@ This project is built to reduce the technical barriers faced by non-technical us
 
 ## 🔗 Deployed Client Link
 
-🔗 [Hirely](https://hirely-brown.vercel.app/)
+🔗 [hirely](https://hirely-brown.vercel.app/)
 
 ---
 
